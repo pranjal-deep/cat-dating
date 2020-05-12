@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    /* color:#14f55f; */
+    color: white;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#card{
+    width: 33vw;
+    display: block;
+    padding: 10vh 2vw;
+    margin: 8vw auto;
+    border: 2px solid white;
+}
+img{
+    width: 80%;
+    /* margin-left: 2vw; */
+    /* border: 2px solid white; */
+}
+p{
+    /* font-size: 1.5em; */
+    margin-bottom: 20px;
+}
+
+#title,#content {
+    /* padding: 1vw 0 1vw 2vw; */
+    /* padding-left: 10vw; */
+}
+
+#title{
+    /* margin-top: 2vw; */
+}
