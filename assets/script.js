@@ -22,7 +22,7 @@ foo.start(); // start listening
 
 function getResult()
 {
-  // console.log(foo.resultString);
+  console.log(foo.resultString);
   
   if(foo.resultString == "yes" || foo.resultString == "no"){
     nextCat(foo.resultString);
